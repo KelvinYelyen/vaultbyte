@@ -1,3 +1,3 @@
 # vaultbyte
 MERN Backup app.
-Seamlessly backup files on a timer.
+Seamlessly backups files on a set timer.
